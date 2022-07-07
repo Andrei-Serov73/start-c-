@@ -394,6 +394,12 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+bin/debug/net6.0
+
+
+
+
+
 # Гонщик JetBrains
 *.sln.iml
 Нижний колонтитул
