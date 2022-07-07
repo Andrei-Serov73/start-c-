@@ -1,0 +1,15 @@
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\bin\Debug\net6.0\lesson_1_helloMyWorld.exe
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\bin\Debug\net6.0\lesson_1_helloMyWorld.deps.json
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\bin\Debug\net6.0\lesson_1_helloMyWorld.runtimeconfig.json
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\bin\Debug\net6.0\lesson_1_helloMyWorld.dll
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\bin\Debug\net6.0\lesson_1_helloMyWorld.pdb
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.AssemblyInfo.cs
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.dll
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\refint\lesson_1_helloMyWorld.dll
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.pdb
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\lesson_1_helloMyWorld.genruntimeconfig.cache
+C:\Users\админ\Desktop\c##\lesson_1_helloMyWorld\obj\Debug\net6.0\ref\lesson_1_helloMyWorld.dll
